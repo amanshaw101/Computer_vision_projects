@@ -1,4 +1,4 @@
-# 🧠 Computer Vision Projects 
+# 🧠  Computer Vision Projects 
 
 A collection of beginner to intermediate-level **Computer Vision** projects developed using **OpenCV**, **NumPy**, and **Matplotlib**.  
 Each project demonstrates key concepts of image processing, object detection, and real-time computer vision applications.
